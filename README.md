@@ -59,13 +59,13 @@ I’m an AI/ML Engineer focused on building practical AI systems with **LLMs, RA
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 NexusAI — Agentic RAG Assistant
 
-A multi-source **Agentic RAG platform** that can work with documents, YouTube videos, and web content.
+A multi-source **Agentic RAG platform** for interacting with documents, YouTube videos, and web content.
 
-**Key features:**
+**Key Features**
 
 * 🤖 LangGraph-based agent orchestration
 * 🔎 Hybrid **FAISS + BM25** retrieval
@@ -75,38 +75,54 @@ A multi-source **Agentic RAG platform** that can work with documents, YouTube vi
 * 🌐 Web-search fallback
 * 💾 Persistent conversation and thread memory
 * 🔐 Authentication and thread management
-* 🚀 FastAPI + Streamlit
-* 🐳 Docker and AWS deployment
+* ⚡ FastAPI backend with Streamlit interface
+* 🐳 Dockerized and deployable on AWS
 
-🔗 **[View NexusAI on GitHub](https://github.com/MAbdullah005/NexusAI-Agentic-RAG-Assistant)**
+<p>
+  <a href="https://github.com/MAbdullah005/NexusAI-Agentic-RAG-Assistant">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NexusAI GitHub">
+  </a>
+</p>
 
 ---
 
 ### 🔹 AI Medical Assistant
 
-A multimodal AI assistant designed to work with medical-related text, images, PDFs, and voice input.
+A multimodal AI assistant that works with **text, voice, images, and PDF medical reports**, using RAG and LLM-based responses.
 
 **Technologies:** LLMs, RAG, Groq, FastAPI, Gradio, Streamlit, SQLite, Docker
 
-🔗 **[View Project on GitHub](https://github.com/MAbdullah005/AI-Medical-Chatbot)**
+<p>
+  <a href="https://github.com/MAbdullah005/AI-Medical-Chatbot">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Medical Assistant GitHub">
+  </a>
+</p>
 
 ---
 
 ### 🔹 Network Security Detection
 
-A machine learning system for detecting phishing and network security threats using engineered URL/network features.
+A machine learning system for detecting **phishing and network security threats** using engineered URL features.
 
 **Technologies:** Python, Scikit-learn, Random Forest, MLflow, DVC, FastAPI, Streamlit, Docker, AWS
 
-🔗 **[View Project on GitHub](https://github.com/MAbdullah005/networksecurit)**
+<p>
+  <a href="https://github.com/MAbdullah005/networksecurit">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Network Security Detection GitHub">
+  </a>
+</p>
 
 ---
 
 ### 🔹 Movie Recommender System
 
-A recommendation system that suggests movies based on user preferences and similarity between movies.
+A machine learning recommendation system that suggests movies based on similarity between movies and user preferences.
 
-🔗 **[View Project on GitHub](https://github.com/MAbdullah005/Movie-Recommender-System)**
+<p>
+  <a href="https://github.com/MAbdullah005/Movie-Recommender-System">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Movie Recommender GitHub">
+  </a>
+</p>
 
 ---
 
@@ -128,13 +144,13 @@ A recommendation system that suggests movies based on user preferences and simil
     <img src="https://img.shields.io/badge/GitHub-MAbdullah005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/abdullah-ali-584186301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/MAbdullah005">
     <img src="https://img.shields.io/badge/X-MAbdullah005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://medium.com/@abdullahaliofc">
-    <img src="https://img.shields.io/badge/Medium-Abdullah_Ali-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Abdullah%20Ali-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
@@ -149,7 +165,3 @@ A recommendation system that suggests movies based on user preferences and simil
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdullah005&hide_border=true" alt="GitHub Streak">
 </p>
-
----
-
-### 💡 Building AI systems, learning every day, and turning ideas into production-ready applications.
