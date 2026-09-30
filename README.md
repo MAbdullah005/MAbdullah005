@@ -1,30 +1,155 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdullah Ali
-=====================================================================================================================================
+# 👋 Hi, I'm Abdullah Ali
 
-AI/ML Engineer
---------------
+### AI/ML Engineer
 
-I’m an AI/ML Engineer passionate about building practical AI systems using LLMs, RAG, Agentic AI, and MLOps. I enjoy turning ideas into scalable applications and continuously learning, experimenting, and building with new technologies.
+I’m an AI/ML Engineer focused on building practical AI systems with **LLMs, RAG, Agentic AI, and MLOps**. I enjoy turning ideas into useful applications, deploying AI systems, and continuously learning through hands-on projects.
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [abdullahaliofc@gmail.com](mailto:abdullahaliofc@gmail.com)
-* 🖥️ See my portfolio at [MAbdullah.dev](https://abdullah-dev-six.vercel.app/)
-* 👥  I'm looking to collaborate on AI/ML projects, LLM applications, RAG systems, AI agents, and open-source projects
+* 🌍 Based in **Pakistan**
+* ✉️ **[abdullahaliofc@gmail.com](mailto:abdullahaliofc@gmail.com)**
+* 🖥️ **[Portfolio](https://abdullah-dev-six.vercel.app/)**
+* 🤝 Open to collaborating on **AI/ML, LLM, RAG, Agentic AI, and open-source projects**
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+---
+
+## 🧠 Tech Stack
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-### Socials
+### Generative AI
 
-<p align="left"> <a href="https://www.github.com/MAbdullah005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MAbdullah005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="http://www.medium.com/@abdullahaliofc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-ali-584186301/?skipRedirect=true" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/mabdullah005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-<a href="https://www.x.com/MAbdullah005" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MAbdullah005?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat" alt="LLMs">
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat" alt="RAG">
+  <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat" alt="AI Agents">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat" alt="Transformers">
+</p>
 
-<b>My GitHub Stats</b>
+### MLOps / Cloud
 
-<a href="http://www.github.com/MAbdullah005"><img src="https://github-readme-stats.vercel.app/api?username=MAbdullah005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MAbdullah005's GitHub stats" /></a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD">
+</p>
 
-<a href="http://www.github.com/MAbdullah005"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdullah005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Databases & Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" alt="FAISS">
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=flat" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 NexusAI — Agentic RAG Assistant
+
+A multi-source **Agentic RAG platform** that can work with documents, YouTube videos, and web content.
+
+**Key features:**
+
+* 🤖 LangGraph-based agent orchestration
+* 🔎 Hybrid **FAISS + BM25** retrieval
+* 📄 PDF, YouTube, and web RAG
+* 🧠 Multi-step reasoning and tool calling
+* 🔄 CRAG-style relevance evaluation
+* 🌐 Web-search fallback
+* 💾 Persistent conversation and thread memory
+* 🔐 Authentication and thread management
+* 🚀 FastAPI + Streamlit
+* 🐳 Docker and AWS deployment
+
+🔗 **[View NexusAI on GitHub](https://github.com/MAbdullah005/NexusAI-Agentic-RAG-Assistant)**
+
+---
+
+### 🔹 AI Medical Assistant
+
+A multimodal AI assistant designed to work with medical-related text, images, PDFs, and voice input.
+
+**Technologies:** LLMs, RAG, Groq, FastAPI, Gradio, Streamlit, SQLite, Docker
+
+🔗 **[View Project on GitHub](https://github.com/MAbdullah005/AI-Medical-Chatbot)**
+
+---
+
+### 🔹 Network Security Detection
+
+A machine learning system for detecting phishing and network security threats using engineered URL/network features.
+
+**Technologies:** Python, Scikit-learn, Random Forest, MLflow, DVC, FastAPI, Streamlit, Docker, AWS
+
+🔗 **[View Project on GitHub](https://github.com/MAbdullah005/networksecurit)**
+
+---
+
+### 🔹 Movie Recommender System
+
+A recommendation system that suggests movies based on user preferences and similarity between movies.
+
+🔗 **[View Project on GitHub](https://github.com/MAbdullah005/Movie-Recommender-System)**
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Agentic AI
+* 🧩 Advanced RAG architectures
+* ⚙️ AI system production and deployment
+* ☁️ AWS for AI/ML
+* 📊 MLOps and model monitoring
+* 🧠 LLM evaluation and optimization
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/MAbdullah005">
+    <img src="https://img.shields.io/badge/GitHub-MAbdullah005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-ali-584186301/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/MAbdullah005">
+    <img src="https://img.shields.io/badge/X-MAbdullah005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://medium.com/@abdullahaliofc">
+    <img src="https://img.shields.io/badge/Medium-Abdullah_Ali-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MAbdullah005&show_icons=true&hide_border=true" alt="Abdullah's GitHub Stats">
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdullah005&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+### 💡 Building AI systems, learning every day, and turning ideas into production-ready applications.
