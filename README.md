@@ -8,7 +8,7 @@ I’m an AI/ML Engineer passionate about building practical AI systems using LLM
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [abdullahaliofc@gmail.com](mailto:abdullahaliofc@gmail.com)
-* 🧠  I'm currently learning Agentic AI, advanced RAG, LLM application development, MLOps, and AWS
+* 🖥️ See my portfolio at [Abdullah.dev](https://abdullah-dev-six.vercel.app/)
 * 👥  I'm looking to collaborate on AI/ML projects, LLM applications, RAG systems, AI agents, and open-source projects
 
 <p align="left">
